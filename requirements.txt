@@ -1,0 +1,2 @@
+# Core application uses only Python standard library.
+# Optional packaging: pyinstaller>=6.0

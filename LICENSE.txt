@@ -1,0 +1,1 @@
+DEVICEIQ sample implementation. All rights reserved by the recipient for this generated project. Android and ADB are trademarks/technologies of Google; this project is not affiliated with Google or any device manufacturer.
