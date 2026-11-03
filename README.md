@@ -17,6 +17,7 @@ This initial release is an operational Android workstation, not a manufacturer-a
 - On the phone, accept the RSA authorization prompt for the workstation
 
 Install ADB:
+
 - Windows/macOS/Linux: download official Android SDK Platform-Tools from https://developer.android.com/tools/releases/platform-tools
 - Add the `platform-tools` directory to PATH.
 - Confirm with `adb version`.
